@@ -1,0 +1,26 @@
+
+0.0%		
+	FILEPATH: c:\Users\amina\Downloads\Resume-Parser-main\Resume-Parser-main\static/files\Amina_farid_Offer_Letter.pdf		
+	KEYWORDS: ['amina']		
+	MATCHES: []		
+
+0.0%		
+	FILEPATH: c:\Users\amina\Downloads\Resume-Parser-main\Resume-Parser-main\static/files\Amina_farid_Offer_Letter.pdf		
+	KEYWORDS: ['amina', 'data', 'bharat', 'science']		
+	MATCHES: []		
+
+0.0%		
+	FILEPATH: c:\Users\amina\Downloads\Resume-Parser-main\Resume-Parser-main\static/files\Amina_farid_Offer_Letter.pdf		
+	KEYWORDS: ['amina', 'data', 'bharat', 'science']		
+	MATCHES: []		
+
+65.38%		
+	FILEPATH: c:\Users\amina\Downloads\Resume-Parser-main\Resume-Parser-main\static/files\sample_resume.pdf		
+	KEYWORDS: ['knowledge', 'with', '\uf0b7', 'science', 'accounting', 'professionals', 'press', 'indepth', 'relationships', 'pwc', 'built', 'careers', 'data', 'public', 'amina', 'of', 'quit', 'bharat', 'gained', 'ctrlc', '015000', '7', 'and', 'to', 's', 'at']		
+	MATCHES: ['knowledge', 'with', '\uf0b7', 'science', 'accounting', 'professionals', 'relationships', 'pwc', 'built', 'careers', 'public', 'of', 'gained', 'and', 'to', 's', 'at']		
+
+0.0%		
+	FILEPATH: c:\Users\amina\Downloads\Resume-Parser-main\Resume-Parser-main\static/files\Amina_farid_Offer_Letter.pdf		
+	KEYWORDS: ['knowledge', 'with', '\uf0b7', 'science', 'accounting', 'professionals', 'press', 'indepth', 'relationships', 'pwc', 'built', 'careers', 'data', 'public', 'amina', 'of', 'quit', 'bharat', 'gained', 'ctrlc', '015000', '7', 'and', 'to', 's', 'at']		
+	MATCHES: []		
+
